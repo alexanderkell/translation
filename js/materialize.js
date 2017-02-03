@@ -838,7 +838,6 @@ if (jQuery) {
 
   $(document).ready(function(){
     $('.dropdown-button').dropdown();
-    $(".dropdown-button").dropdown();
   });
 }( jQuery ));
 ;(function($) {
