@@ -3385,6 +3385,10 @@ nav ul a span.badge {
   padding-top: 0;
 }
 
+.section.center-all{
+      margin: 15% 10px 10px 10px;
+}
+
 .row {
   margin-left: auto;
   margin-right: auto;
